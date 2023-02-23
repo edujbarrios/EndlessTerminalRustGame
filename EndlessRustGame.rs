@@ -121,7 +121,7 @@ impl Game {
             // increase score
             score += 1;
             thread::sleep(time::Duration::from_millis(50));
-       “ }
+       }
         score
     }
 
